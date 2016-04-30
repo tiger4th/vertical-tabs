@@ -1,10 +1,9 @@
 {
   "name": "vertical-tabs",
   "main": "./lib/vertical-tabs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Make your tabs vertical",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "vertical-tabs:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
