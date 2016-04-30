@@ -5,7 +5,7 @@
       'label': 'Vertical Tabs'
       'submenu': [
         {
-          'label': 'Toggle'
+          'label': 'Enable'
           'command': 'vertical-tabs:toggle'
         }
       ]
