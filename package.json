@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "vertical-tabs:toggle"
   },
-  "repository": "https://github.com/atom/vertical-tabs",
+  "repository": "https://github.com/tiger4th/vertical-tabs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
