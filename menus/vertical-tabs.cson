@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Vertical Tabs'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'vertical-tabs:toggle'
+        }
+      ]
+    ]
+  }
+]
