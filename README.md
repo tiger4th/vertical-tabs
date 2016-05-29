@@ -2,6 +2,8 @@
 
 Make your tabs vertical
 
-Packages > Vertical Tabs > Enable
+Menu: Packages > Vertical Tabs > Enable
+
+Shortcut: ctrl + alt + v
 
 ![](https://raw.githubusercontent.com/tiger4th/gh-pages/master/readme/vertical-tabs/screenshot.png)
