@@ -1,3 +1,6 @@
+## 0.4.0
+* Autostart
+
 ## 0.3.1
 * Update README
 
