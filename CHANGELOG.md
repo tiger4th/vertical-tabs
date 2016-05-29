@@ -1,3 +1,6 @@
+## 0.3.1
+* Update README
+
 ## 0.3.0
 * Add keyboard shortcut
 
