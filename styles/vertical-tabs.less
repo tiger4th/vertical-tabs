@@ -3,7 +3,7 @@
 
 atom-pane-container {
   atom-pane {
-    -webkit-flex-direction: row !important;
+    flex-direction: row !important;
   }
 }
 
@@ -13,18 +13,12 @@ atom-pane-container {
   min-width: @tab-width !important;
   height: auto !important;
   padding: 0 !important;
-  -webkit-flex-direction: column !important;
+  flex-direction: column !important;
 
   .tab {
-    top: 0 !important;
     width: 100% !important;
     height: auto !important;
-    -webkit-flex: 0 0 auto !important;
-
-    &.active {
-      width: 100% !important;
-      -webkit-flex: 0 0 auto !important;
-    }
+    flex-grow: 0 !important;
 
     .title {
       text-align: left !important;
