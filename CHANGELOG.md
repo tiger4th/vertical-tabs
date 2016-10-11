@@ -1,3 +1,6 @@
+## 0.4.2
+* Scrollable Tabs
+
 ## 0.4.1
 * Refactoring
 
