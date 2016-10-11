@@ -1,3 +1,6 @@
+## 0.4.3
+* Fix scrollable Tabs
+
 ## 0.4.2
 * Scrollable Tabs
 
