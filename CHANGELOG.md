@@ -1,3 +1,6 @@
+## 1.0.0
+* Add tab position and tab width setting
+
 ## 0.4.3
 * Fix scrollable Tabs
 
