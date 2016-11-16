@@ -1,3 +1,6 @@
+## 1.0.1
+* Resolve conflicts with some themes
+
 ## 1.0.0
 * Add tab position and tab width setting
 
