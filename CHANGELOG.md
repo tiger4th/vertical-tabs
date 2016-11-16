@@ -1,3 +1,6 @@
+## 1.0.2
+* Republishing
+
 ## 1.0.1
 * Resolve conflicts with some themes
 
