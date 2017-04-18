@@ -1,3 +1,6 @@
+## 1.0.3
+* Show scrollbar
+
 ## 1.0.2
 * Republishing
 

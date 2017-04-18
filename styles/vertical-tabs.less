@@ -17,6 +17,10 @@ atom-pane-container {
   overflow: auto !important;
   display: block !important;
 
+  &::-webkit-scrollbar {
+    display: unset !important;
+  }
+
   .tab {
     width: 100% !important;
     height: auto !important;
@@ -37,7 +41,7 @@ atom-pane-container {
     height: 1px !important;
     margin: 0 !important;
 
-    &:after {
+    &::after {
       display: none !important;
     }
   }
