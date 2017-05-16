@@ -1,7 +1,7 @@
 {
   "name": "vertical-tabs",
   "main": "./lib/vertical-tabs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Make your tabs vertical",
   "keywords": [
     "tab",
