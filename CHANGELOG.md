@@ -1,3 +1,6 @@
+## 1.0.4
+* Show drop location indicator
+
 ## 1.0.3
 * Show scrollbar
 

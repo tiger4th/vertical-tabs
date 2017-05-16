@@ -36,11 +36,10 @@ atom-pane-container {
   }
 
   .placeholder {
-    position: relative !important;
-    width: auto !important;
+    display: block !important;
     height: 1px !important;
-    margin: 0 !important;
 
+    &::before,
     &::after {
       display: none !important;
     }
