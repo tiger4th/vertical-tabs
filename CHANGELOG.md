@@ -1,3 +1,6 @@
+## 1.0.5
+* Dock fix for Atom 1.17.0
+
 ## 1.0.4
 * Show drop location indicator
 
