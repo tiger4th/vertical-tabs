@@ -16,9 +16,14 @@
   flex-direction: column !important;
   overflow: auto !important;
   display: block !important;
+  box-shadow: none;
 
   &::-webkit-scrollbar {
     display: unset !important;
+  }
+
+  .tab:last-of-type {
+    box-shadow: none;
   }
 
   .tab {
@@ -26,6 +31,8 @@
     height: auto !important;
     flex-grow: 0 !important;
 
+    border: none;
+    
     .title {
       text-align: left !important;
     }
