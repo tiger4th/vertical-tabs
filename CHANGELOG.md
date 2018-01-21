@@ -1,3 +1,6 @@
+## 1.0.6
+* Remove borders and box-shadows of tabs
+
 ## 1.0.5
 * Dock fix for Atom 1.17.0
 
