@@ -1,3 +1,7 @@
+## 1.0.7
+* Fix to work correctly "Tab Bar Width" settings
+* Refactoring
+
 ## 1.0.6
 * Remove borders and box-shadows of tabs
 
