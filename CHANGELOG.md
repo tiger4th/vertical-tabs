@@ -1,3 +1,6 @@
+## 1.0.8
+* Fix to work settings with multiple panes
+
 ## 1.0.7
 * Fix to work correctly "Tab Bar Width" settings
 * Refactoring
